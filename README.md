@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá pessoal, tudo bem por ai?
+### Meu nome é João Carlos e sou Desenvolvedor Full Stack
+
+<div align="center">
+  <a href="https://github.com/joaocarlosdelima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocarlosdelima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarlosdelima&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **JoaoCarlosdeLima/joaocarlosdelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
