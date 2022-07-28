@@ -1,5 +1,5 @@
-### Olá pessoal, tudo bem por ai?
-### Meu nome é João Carlos e sou Desenvolvedor Full Stack
+### <h1>Olá pessoal, tudo bem por ai?</h1>
+### Meu nome é <strong>João Carlos</strong> e sou Desenvolvedor Full Stack
 
 <div align="center">
   <a href="https://github.com/joaocarlosdelima">
